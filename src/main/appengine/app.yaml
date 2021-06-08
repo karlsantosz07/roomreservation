@@ -1,0 +1,6 @@
+runtime: java11
+instance_class: F4
+service: default
+
+
+entrypoint: java -noverify -jar workspace-reservation-0.0.1-SNAPSHOT.jar
